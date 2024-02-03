@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I am Zhi Tao 👋
+## Hi, I am Lut Lat Aung 👋
 ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
 🤔 I'm currently working on Kubernetes with edge computing.
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ### About me:
 - 😄 Fun fact: I'm a Java developer before, worked in IBM
 - 🔭 I’m looking to collaborate on commercial projects and startups
-- 📫 How to reach me: [Email](taozhi8833998@gmail.com)
+- 📫 How to reach me: [Email](lutlataung03@gmail.com)
 - 💬 Ask me about `Nothing`
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=taozhi8833998&show_icons=true&theme=onedark">
