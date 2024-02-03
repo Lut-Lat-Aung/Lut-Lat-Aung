@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 </div>
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Lut-Lat-Aung&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![Snake animation](https://raw.githubusercontent.com/Lut-Lat-Aung/Lut-Lat-Aung/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Lut-Lat-Aung/Lut-Lat-Aung/output/github-contribution-grid-snake-light.svg)
