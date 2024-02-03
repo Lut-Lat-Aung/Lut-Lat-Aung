@@ -8,21 +8,18 @@
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
 ### My stack:
-- 5+ years of experience in React, Node.js, Express.js , async, await
-- 3+ years of experience in Kubernetes
-- 1+ years of experience in Rust
-- 🏆 Chat bots (Telegram, Twitter, Facebook Messenger)
-- ❤️ API, RESTful API, GraphQL
+- 3+ years of experience in Python, Java
+- 2+ years of experience in HTML, Css, Javascript
+- 1+ years of experience in SML
 - HTML/CSS, Javascript
-- git, docker, CI/CD
+- git
 - SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
-- LocalStorage, SessionStorage, JWT
 
 ### About me:
-- 😄 Fun fact: I'm a Java developer before, worked in IBM
+- 😄 Fun fact: I'm a Web developer before.
 - 🔭 I’m looking to collaborate on commercial projects and startups
 - 📫 How to reach me: [Email](lutlataung03@gmail.com)
-- 💬 Ask me about `Nothing`
+- 💬 Ask me about `Anything`
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Lut-Lat-Aung&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lut-Lat-Aung&layout=compact&theme=onedark" />
