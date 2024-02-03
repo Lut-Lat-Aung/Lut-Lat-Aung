@@ -1,23 +1,9 @@
-<!--
-**taozhi8833998/taozhi8833998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## Hi, I am Lut Lat Aung 👋
-❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
-🤔 I'm currently working on Kubernetes with edge computing.
+<!-- ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend -->
+🤔 I'm currently studying at Assumption University of Thailand
 
-✨ I study: React, Kubernetes, Rust, Nodejs
+✨ I study: HTML, CSS, Javascript, Ruby
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
