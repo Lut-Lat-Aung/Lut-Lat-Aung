@@ -26,6 +26,7 @@
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Lut-Lat-Aung&theme=github">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Lut-Lat-Aung&theme=onedark" />
 </div>
-
+<!-- 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Lut-Lat-Aung&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 ![Snake animation](https://raw.githubusercontent.com/Lut-Lat-Aung/Lut-Lat-Aung/output/github-contribution-grid-snake.svg)
