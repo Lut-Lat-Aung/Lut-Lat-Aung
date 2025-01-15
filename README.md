@@ -3,23 +3,22 @@
 <!-- ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend -->
 🤔 I'm currently studying at Assumption University of Thailand
 
-✨ I study: HTML, CSS, Javascript, Ruby
+✨ I study: AR (Augmented Reality) Dev 
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
 ### My stack:
 - 3+ years of experience in Python, Java
-- 2+ years of experience in HTML, Css, Javascript
+- 2+ years of experience in HTML, CSS, Javascript, Angular, Next JS,
 - 1+ years of experience in SML
-- HTML/CSS, Javascript
 - git
 - SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
 
 ### About me:
-- 😄 Fun fact: I'm a Web developer before.
+- 😄 Fun fact: I'm a hard to know guy
 - 🔭 I’m looking to collaborate on commercial projects and startups
 - 📫 How to reach me: [Email](lutlataung03@gmail.com)
-- 💬 Ask me about `Anything`
+- 💬 Ask me about `Emotional Stuff`
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lut-Lat-Aung&color=blue)
 
