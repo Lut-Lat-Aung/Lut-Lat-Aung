@@ -3,16 +3,15 @@
 <!-- ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend -->
 🤔 I'm currently studying at Assumption University of Thailand
 
-✨ I study: AR (Augmented Reality) Dev 
+✨ I study: AR (Augmented Reality), Frontend, Backend, Unity (C++, C#)  
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
 ### My stack:
 - 3+ years of experience in Python, Java
 - 2+ years of experience in HTML, CSS, Javascript, Angular, Next JS,
-- 1+ years of experience in SML
+- 1+ years of experience in C++, C#, Unity
 - git
-- SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
 
 ### About me:
 - 😄 Fun fact: I'm a hard to know guy
