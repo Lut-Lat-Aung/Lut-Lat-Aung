@@ -5,7 +5,7 @@
 
 ✨ I study: AR (Augmented Reality), Frontend, Backend, Unity (C++, C#)  
 
-<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
+<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="200">
 
 <!--<img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5nb2o3cm5id2wybnYwZjU0NWU2aG1ldHg0djN3OXFjbHEwYWxxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.webp" width = 50px >-->
 <h3 style="font-size: 1.5em; margin: 0;">
@@ -102,7 +102,7 @@
 <table>
   <tr>
       <td align="center" width="90">
-        <a href="https://vercel.com" target="_blank"><img alt="Vercel" width="35" height="35" src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest/scale-to-width-down/250?cb=20221026155821" /></a>
+        <a href="https://vercel.com" target="_blank"><img alt="Vercel" width="35" height="35" src="https://cdn.brandfetch.io/idDpCfN4VD/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1726463482807" /></a>
         <br><p>Vercel</p>
       </td>
   </tr>
@@ -129,10 +129,23 @@
       </td>
       <td align="center" width="90">
         <a href="" target="_blank">
-       <img alt="Canva" width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" /></a>
+       <img alt="Canva" width="35" height="35" src="https://static.wikia.nocookie.net/logopedia/images/0/08/Canva_icon_2021.svg/revision/latest/scale-to-width-down/1000?cb=20230218102450" /></a>
         <br><p>Canva</p>
       </td>   
   </tr>
+</table>
+
+<h3 style="font-size: 1.5em; margin: 0;">
+  Engineering Drawing
+</h3>
+<table>
+  <tr>
+    <td align="center" width="90">
+        <a href="" target="_blank">
+       <img alt="Solid Work" width="35" height="35" src="https://yt3.googleusercontent.com/ytc/AIdro_nDu8597oXKmtwj93pZDLHMdcEedebsaq9mew8XZKbEk4E=s900-c-k-c0x00ffffff-no-rj" /></a>
+        <br><p>Solid Work</p>
+      </td>
+     
 </table>
 <br/>
 
