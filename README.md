@@ -159,9 +159,11 @@
 
 
 <div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Lut-Lat-Aung&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lut-Lat-Aung&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Lut-Lat-Aung&theme=github">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Lut-Lat-Aung&show_icons=true&theme=onedark">
+  <img src="https://streak-stats.demolab.com?user=Lut-Lat-Aung&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" width="420px" alt="streak graph"  />
+  
+  <img width="400px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lut-Lat-Aung&layout=compact&theme=onedark" />
+  <img width="430px" src="https://github-readme-activity-graph.vercel.app/graph?username=Lut-Lat-Aung&theme=github">
 <!--   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Lut-Lat-Aung&theme=onedark" /> -->
 </div>
 
