@@ -10,13 +10,17 @@
 <!--<img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5nb2o3cm5id2wybnYwZjU0NWU2aG1ldHg0djN3OXFjbHEwYWxxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.webp" width = 50px >-->
 
 <h3 style="font-size: 1.5em; margin: 0;">
-  Game Engines
+  Game Development
 </h3>
 <table> 
   <tr>
      <td align="center" width="90">
         <img alt="Unity" width="95" height="95" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZuOGplMWJ6eWRmaGVxcDMyNXVmY2R2ZGNuMHpuMzlkanAxamlvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AtGNnASz6qgZcxjGnb/giphy.gif" />
         <br><p>Unity</p>
+    </td>
+    <td align="center" width="90">
+        <img alt="Aseprite" width="75" height="75" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/05100836-b28d-4395-a29d-2f17b751c23f/dcbvh78-ae66f3dd-c1c6-4ec7-813e-a944cd10c318.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wNTEwMDgzNi1iMjhkLTQzOTUtYTI5ZC0yZjE3Yjc1MWMyM2YvZGNidmg3OC1hZTY2ZjNkZC1jMWM2LTRlYzctODEzZS1hOTQ0Y2QxMGMzMTgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WXj11K7a_mIDVRoCR6_-eUH1JH_2LhtWcU6IO_k0AZg" />
+        <br><p>Aseprite</p>
     </td>
 </table>
 
