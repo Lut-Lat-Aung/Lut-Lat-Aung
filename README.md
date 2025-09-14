@@ -5,7 +5,7 @@
 
 ✨ I study: AR (Augmented Reality), Frontend, Backend, Unity (C++, C#)  
 
-<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="200">
+<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="100">
 
 <!--<img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5nb2o3cm5id2wybnYwZjU0NWU2aG1ldHg0djN3OXFjbHEwYWxxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.webp" width = 50px >-->
 
