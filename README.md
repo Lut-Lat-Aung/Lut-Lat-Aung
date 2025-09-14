@@ -9,6 +9,9 @@
 
 <!--<img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5nb2o3cm5id2wybnYwZjU0NWU2aG1ldHg0djN3OXFjbHEwYWxxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.webp" width = 50px >-->
 
+<br>
+<br>
+<br>
 <h3 style="font-size: 1.5em; margin: 0;">
   Game Development
 </h3>
