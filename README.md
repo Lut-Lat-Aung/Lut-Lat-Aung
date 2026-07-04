@@ -24,7 +24,7 @@
 <table> 
   <tr>
      <td align="center" width="90">
-        <img alt="Unity" width="95" height="95" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZuOGplMWJ6eWRmaGVxcDMyNXVmY2R2ZGNuMHpuMzlkanAxamlvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AtGNnASz6qgZcxjGnb/giphy.gif" />
+        <img alt="Unity" width="95" height="55" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZuOGplMWJ6eWRmaGVxcDMyNXVmY2R2ZGNuMHpuMzlkanAxamlvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AtGNnASz6qgZcxjGnb/giphy.gif" />
         <br><p>Unity</p>
     </td>
     <td align="center" width="90">
@@ -176,10 +176,10 @@
 <br/>
 
 ### About me:
-- 😄 Fun fact: I'm a hard to know guy
+- 😄 Fun fact: I like sprinting and running early in the morning.
 - 🔭 I’m looking to collaborate on commercial projects and startups
-- 📫 How to reach me: [Email](lutlataung03@gmail.com)
-- 💬 Ask me about `Emotional Stuff`
+- 📫 How to reach me: [Email](alexay.lutlataung@gmail.com)
+- 💬 Ask me about `My workout plan`
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lut-Lat-Aung&color=blue)
 
